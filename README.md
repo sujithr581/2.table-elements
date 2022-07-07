@@ -1,2 +1,2 @@
-# task-2
-full stack developing
+# full stack developing 
+simple tasks in it
